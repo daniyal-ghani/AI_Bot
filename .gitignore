@@ -1,0 +1,11 @@
+.env
+__pycache__/
+Dataset/
+.venv/
+node_modules/
+api.py
+create-database.py
+main.py
+index.js
+package-lock.json
+package.json

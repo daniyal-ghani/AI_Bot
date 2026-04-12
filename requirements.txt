@@ -1,0 +1,5 @@
+streamlit
+langchain-mistralai
+langchain-chroma
+python-dotenv
+chromadb
